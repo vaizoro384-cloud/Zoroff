@@ -1,22 +1,22 @@
 // =======================================================
 // WEBSITE NAME (ZORO DIAMOND)
 // =======================================================
-var website_name = "ZORO";
+var website_name = "ZORO FF DIAMOND ";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK =https://t.me/zorodiamond1
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/zorodiamond1";
 
 // =======================================================
 // TELEGRAM GROUP LINK =https://t.me/+1MZZOH3I15A2YTY1
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/+1MZZOH3I15A2YTY1";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK =https://www.youtube.com/@zoro-diamond
 // =======================================================
-var youtube_channel_link = "YouTube channel link";
+var youtube_channel_link = "https://www.youtube.com/@zoro-diamond";
 
 // =======================================================
 // NOTIFICATION TEXT=👑 ZORO DIAMOND — Your Trusted Top-Up Service! 💙
